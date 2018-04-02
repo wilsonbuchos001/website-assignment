@@ -1,0 +1,63 @@
+body {
+background-image: url("nicepix2.jpg");
+margin-top: 0px;
+color: lightblue;
+}
+
+#head {
+background-color: black;
+font-size: 40px;
+color: inherit;
+margin: : 0px; 
+padding: 0px;
+text-align: center;
+}
+
+#picture img {
+width: 30%;
+text-align: center;
+}
+
+#picture {
+text-align: center;
+}
+
+#paragraph1 {
+color: lightblue;
+}
+
+#details {
+padding-left: 442px; 
+font-size: 25px;
+margin: 10px; 
+}
+
+#explanations {
+font-size: 30px;
+color: white;
+padding-left: 40px;
+padding-right: 40px;
+}
+
+#footer{
+text-align: center;
+} 
+
+#logo1 {
+width: 3%;
+margin-right: 20px;
+}
+
+#logo2 {
+width: 3%;
+margin-right: 20px;
+}
+
+#logo3 {
+width: 3%;
+margin-right: 20px;
+}
+
+#mail {
+color: lightblue;
+}
